@@ -1,0 +1,23 @@
+## .NET Core
+bin/
+obj/
+/packages/
+*.user
+*.suo
+*.userprefs
+*.lock.json
+.vs/
+.vscode/
+*.swp
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
+
+## Local settings
+appsettings.Development.json
+*.Development.json
+
+## Logs
+*.log
+logs/
